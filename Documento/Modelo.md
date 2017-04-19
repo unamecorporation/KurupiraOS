@@ -2,7 +2,7 @@
 #### Requisitos para documentar a ferramenta desenvolvida.
 
 Este é um documento para especificar requisitos de funções, versões, suporte e indicar o desenvolvedor.
->- **Extensão da Documentação:** .md
+- **Extensão da Documentação:** .md
 - **Linguagem da Documentação:** Português Brasileiro.*Caso queira, a documentação pode ser feita em outro idioma, também, de acordo com o desenvolvedor.*
 - **Aconselhavel evitar girias locais ou específicas da comunidade. Lembre-se, sua documentação será lida por vários tipos de pessoas e precisa ser entendida por todas(ou quase todas)**
 
