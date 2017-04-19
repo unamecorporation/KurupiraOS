@@ -35,7 +35,7 @@ Este é o menu que será exibido no parâmetro --help:
 
 ### Dependências
 Uma lista com todas as dependências necessárias para a ferramenta ser executada sem problemas
-> - Dependência 1
+>- Dependência 1
 - Dependência 2
 - Dependência 3
 
