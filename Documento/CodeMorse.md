@@ -5,13 +5,13 @@
 ##### Licença: GPL v.3
 ##### Ambiente de Teste: Kali Linux
 
-##### Chamada da ferramenta
+#### Chamada da ferramenta
 >uname@kurupira[~]:codemorse
 
-##### Descrição da Ferramenta
+#### Descrição da Ferramenta
 O “codemorse” é um programa desenvolvido em python cuja função é encriptar e decriptar código morse (criptografia composta por “.”, ”-“ e “/” comumente usada para comunicação militar). O Codemorse é uma ferramenta de grande utilidade para diversas atividades, como, por exemplo: Competições CTF’s na área de Criptografia, comunicação militar, encriptar e decriptar mensagens pessoais, dentre outras funções.
 
-#### Menu de ajuda
+### Menu de ajuda
 Este é o menu que será exibido no parâmetro --help:
 uname@kurupira[~]:codemorse -h (ou -help)  
 Parâmetros do codemorse:
